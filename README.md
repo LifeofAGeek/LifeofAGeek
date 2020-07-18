@@ -21,6 +21,9 @@
 <a href="https://www.hackerrank.com/byte_2/">
   <img align="left" alt="Sethi's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<a href="https://www.codechef.com/byte_2/">
+  <img align="left" alt="Sethi's CC Handle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 
 <br />
 
