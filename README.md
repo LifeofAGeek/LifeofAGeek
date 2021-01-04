@@ -37,8 +37,8 @@ I'm a Second year Post Grad student pursuing Master's in Computer Application �
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working on flutter, Javascript, react etc 💻.
-- 👨🏻‍💻 I’m currently learning Full Stack Development 🚀 and CP Algorithms.
+- 🛠 I’m currently working on Django, VueJs, Flutter etc 💻.
+- 👨🏻‍💻 I’m currently learning Web, Android Development 🚀 and CP Algorithms.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: anubhav.mca19.du@gmail.com
